@@ -1,0 +1,11 @@
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\obj\Debug\netcoreapp2.0\Lab3-DecisionTree.csprojResolveAssemblyReference.cache
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\obj\Debug\netcoreapp2.0\Lab3-DecisionTree.csproj.CoreCompileInputs.cache
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\obj\Debug\netcoreapp2.0\Lab3-DecisionTree.AssemblyInfoInputs.cache
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\obj\Debug\netcoreapp2.0\Lab3-DecisionTree.AssemblyInfo.cs
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\bin\Debug\netcoreapp2.0\Lab3-DecisionTree.deps.json
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\bin\Debug\netcoreapp2.0\Lab3-DecisionTree.runtimeconfig.json
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\bin\Debug\netcoreapp2.0\Lab3-DecisionTree.runtimeconfig.dev.json
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\bin\Debug\netcoreapp2.0\Lab3-DecisionTree.dll
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\bin\Debug\netcoreapp2.0\Lab3-DecisionTree.pdb
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\obj\Debug\netcoreapp2.0\Lab3-DecisionTree.dll
+C:\Users\rjkgi\source\repos\Lab3-DecisionTree\Lab3-DecisionTree\obj\Debug\netcoreapp2.0\Lab3-DecisionTree.pdb
