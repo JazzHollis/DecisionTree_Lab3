@@ -15,82 +15,43 @@ namespace Lab3_DecisionTree
         {
 
 
-
-
             while (true)
 
             {
-
-
                 Console.WriteLine("Enter a number between 1 and 100:");
                 string input = Console.ReadLine();
                 int num1 = int.Parse(input);
 
-
                 if (num1 % 2 == 1)
-
                 {
-
-                    Console.WriteLine(num1 + " is an odd number.");
-
+                    Console.WriteLine(num1 + " and Odd");
                 }
 
-
-
                 else if (num1 <= 25)
-
                 {
-
-                    Console.WriteLine(num1 + " is even and less than 25.");
-
+                    Console.WriteLine(num1 + " Even and less than 25");
                 }
 
                 else if (num1 <= 60)
-
                 {
-
-                    Console.WriteLine(num1 + " is even and less than 60.");
-
+                    Console.WriteLine(num1 + " Even");
                 }
 
                 else if (num1 <= 100)
-
                 {
-
-                    Console.WriteLine(num1 + " is even and is greater than 60.");
-
+                    Console.WriteLine(num1 + " Even");
                 }
 
-                else
+                Console.WriteLine("Continue? (Y/N)");
+                string playAgain = Console.ReadLine();
+
+                if (playAgain.ToLower() != "y")
                 {
                     Console.WriteLine("Good Bye!");
                     Console.ReadLine();
                     break;
-
                 }
-
-
-
-                Console.WriteLine("Continue? (Y/N)");
-                string playAgain = Console.ReadLine();
-                if (playAgain.ToLower() == "y")
-                {
-                    continue;
-                }
-
-
-
-
-
             }
-
-
-
-
-
-
         }
-
     }
-
 }
