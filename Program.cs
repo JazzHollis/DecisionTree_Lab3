@@ -22,7 +22,7 @@ namespace Lab3_DecisionTree
             {
 
 
-                Console.WriteLine("Enter a number between 1 and 100: ");
+                Console.WriteLine("Enter a number between 1 and 100:");
                 string input = Console.ReadLine();
                 int num1 = int.Parse(input);
 
